@@ -12,3 +12,6 @@
         System.out.println (line);
           }
 }
+
+
+lab 2
